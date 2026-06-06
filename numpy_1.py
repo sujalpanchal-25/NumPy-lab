@@ -24,5 +24,5 @@ print(ar6)
 ar7 = np.linspace(0,10,3)
 print(ar7)
 
-ar8 = ar.copy()
-print(ar8)
+ara = ar.copy()
+print(ara)
