@@ -28,6 +28,17 @@ ara = ar.copy()
 print(ara)
 
 #shape
+'''Easy Trick
+
+For shape:
+
+Shape = (Blocks, Rows, Columns)
+
+For this array:
+
+2 blocks
+2 rows
+3 columns'''
 
 print(ar.shape)
 print(ar2.shape)
