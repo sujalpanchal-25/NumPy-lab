@@ -8,7 +8,7 @@ Welcome to my personal coding journey! This repository serves as a structured lo
 
 * **Language:** Python 3.x
 * **Core Library:** NumPy
-* **Environment:** [e.g., VS Code / Jupyter Notebooks]
+* **Environment:** VS Code
 
 ---
 
